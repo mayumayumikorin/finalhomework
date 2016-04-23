@@ -1,0 +1,59 @@
+body{
+	margin:0 0 0 0;
+	background-color:black;
+}
+#bg{
+	width:100%;	
+	z-index:-1;
+	position:absolute;
+}
+.1button{
+	
+	position:absolute;
+	width:10%;
+	margin-top:28%;
+	margin-left:45%;
+}
+.ylwbut{
+	position:absolute;
+	width:10%;
+	margin-top:28%;
+	margin-left:45%;
+}
+.inf{
+	position:absolute;
+	padding-left:10%;
+	padding-right:30%;
+	margin-top:56.1%;
+	font-family:Microsoft Yahei;
+	color:white;
+	background:black;
+	
+}
+#tou{
+	font-weight:bold;
+	color:yellow;
+	font-size:200%
+}
+video{
+	position:absolute;
+	margin-top:120%;
+	width:100%;
+}
+#tovid{
+	position:absolute
+}
+#tovid img{	
+	width:20%;
+	margin-top:64%;
+	border-color:white;
+	margin-left:77%;
+	}
+	#touch{
+	position:absolute
+}
+#touch img{	
+	width:15%;
+	margin-top:72%;
+	margin-left:80%;
+	}
