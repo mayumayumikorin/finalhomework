@@ -43,7 +43,7 @@ video{
 #tovid{
 	position:absolute
 }
-#tovid img{	
+#tovid{	
 	width:20%;
 	margin-top:64%;
 	border-color:white;
@@ -52,8 +52,12 @@ video{
 	#touch{
 	position:absolute
 }
-#touch img{	
+#touch{	
 	width:15%;
 	margin-top:72%;
 	margin-left:80%;
 	}
+#back{
+	width:10%;
+	margin-top:176.4%;
+	margin-left:90%;
