@@ -48,6 +48,7 @@ a{
 	margin:0 0 0 0;
 	}
 #store{
+	display:none;
 	position:absolute;
 	z-index:10;
 	margin:-1% 0 0 3%

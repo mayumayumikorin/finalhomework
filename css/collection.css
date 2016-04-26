@@ -1,4 +1,6 @@
 @charset="utf-8";
+@media only screen and (min-width:1366px)
+{
 body{
 	background-color:black;
 	margin:0 0 0 0;
@@ -44,4 +46,109 @@ h3{
 }
 #back img{
 	width:100%;
+}
+}@media only screen and (max-width:1365px) and (min-width:1036px)
+{
+body{
+	background-color:black;
+	margin:0 0 0 0;
+	font-family:Microsoft Yahei;
+}
+#firtp{
+	position:absolute;
+	font-weight:bold;
+	margin:8% 3% 0 48%;
+	color:white;
+}
+p{
+	font-size:80%;
+}
+h1{
+	font-size:120%;
+}
+#firphoto{
+	position:absolute;
+	margin-top:5%;
+	margin-left:3%;
+	width:40%;
+}
+#firphoto img{
+	width:100%;
+}
+#secphoto{
+	position:absolute;
+	margin:34% 0 0 48%;
+	width:46.7%;
+}
+#secphoto img{
+	width:100%;
+}
+video{
+	position:absolute;
+	margin:75% 0 0 3%;
+	width:60%
+}
+h3{
+	position:absolute;
+	margin:73% 0 0 3%;
+	color:white;
+	font-size:100%;
+}
+#back{
+	position:absolute;
+	width:20%;
+	margin:97% 0 0 77%;
+}
+#back img{
+	width:100%;
+}
+}
+@media only screen and (max-width:1035px)
+{
+body{
+	background-color:black;
+	margin:0 0 0 0;
+	font-family:Microsoft Yahei;
+	color:white;
+}
+#firtp{
+	margin:0 3% 0 3%;
+}
+#firphoto{
+	position:absolute;
+	width:30%;
+	margin-left:5%;
+	margin-top:7%;
+}
+h3{
+	margin-top:5%;
+	margin-left:5%;
+	font-weight:bold;
+}
+#firphoto img{
+	width:100%;
+}
+#secphoto{
+	position:absolute;
+	width:62%;
+	margin-left:35%;
+	margin-top:7%;
+}
+#secphoto img{
+	width:100%;
+}
+video{
+	position:absolute;
+	margin-top:50%;
+	width:100%;
+}
+#back{
+	margin-left:35%;
+	width:30%;
+	position:absolute;
+	margin-top:108%;
+}
+#back img{
+	width:100%;
+}
 }
